@@ -1,0 +1,9 @@
+{
+  "prefix": "!",
+  "case_counter_file": "data/cases.json",
+  "warns_file": "data/warns.json",
+  "dm_on_action": true,
+  "embed_color": 16744704,
+  "footer_text": "Texas State Utilities",
+  "server_name": "Texas State Roleplay"
+}
